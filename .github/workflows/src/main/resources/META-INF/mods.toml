@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="MIT"
+
+[[mods]]
+modId="espmod"
+version="1.0.0"
+displayName="ESP Mod"
+authors="You"
+description='''Client-side ESP mod with Chest ESP, Spawner ESP, Freecam, Xray, Block ESP, and Storage ESP. Fully customizable.'''
+
+[[dependencies.espmod]]
+modId="forge"
+mandatory=true
+versionRange="[52,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.espmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="CLIENT"
