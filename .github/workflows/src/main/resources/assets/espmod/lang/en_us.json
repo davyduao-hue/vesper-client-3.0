@@ -1,0 +1,9 @@
+{
+    "key.espmod.toggle_xray": "Toggle Xray",
+    "key.espmod.toggle_block_esp": "Toggle Block ESP",
+    "key.espmod.toggle_storage_esp": "Toggle Storage ESP",
+    "key.espmod.toggle_spawner_esp": "Toggle Spawner ESP",
+    "key.espmod.toggle_freecam": "Toggle Freecam",
+    "key.espmod.open_config": "Open ESP Config",
+    "category.espmod": "ESP Mod"
+}
